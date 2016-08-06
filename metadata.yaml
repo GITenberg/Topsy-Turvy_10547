@@ -1,0 +1,59 @@
+_repo: Topsy-Turvy_10547
+_version: 0.0.1
+alternative_title: Sans dessus dessous. English
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: "The Purchase of the North Pole or Topsy-Turvy (French: Sans dessus dessous)\
+  \ is an adventure novel by Jules Verne, published in 1889. It is the third and last\
+  \ novel of the Baltimore Gun Club, first appearing in From the Earth to the Moon,\
+  \ and later in Around the Moon, featuring the same characters but set twenty years\
+  \ later.\nLike some other books of his later years, in this novel Verne tempers\
+  \ his love of science and engineering with a good dose of irony about their potential\
+  \ for harmful abuse and the fallibility of human endeavors.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10547'
+  wikidata: Q594139
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction, French -- Translations into English'
+- GITenberg
+title: Topsy-Turvy
+url: http://www.gutenberg.org/ebooks/10547
+wikipedia:
+- https://fr.wikipedia.org/wiki/Sans_dessus_dessous
+- https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3%D8%A7_%D8%B9%D9%84%D9%89_%D8%B9%D9%82%D8%A8
+- https://nl.wikipedia.org/wiki/Een_schot_in_de_lucht
+- https://ro.wikipedia.org/wiki/%C3%8Ent%C3%A2mpl%C4%83ri_neobi%C8%99nuite
+- https://pl.wikipedia.org/wiki/%C5%9Awiat_do_g%C3%B3ry_nogami
+- https://it.wikipedia.org/wiki/Il_mondo_sottosopra
+- https://cs.wikipedia.org/wiki/Zmatek_nad_zmatek
+- https://de.wikipedia.org/wiki/Der_Schuss_am_Kilimandscharo
+- https://es.wikipedia.org/wiki/El_secreto_de_Maston
+- https://hy.wikipedia.org/wiki/%D5%8F%D5%A1%D5%AF%D5%B6_%D5%AB_%D5%BE%D5%A5%D6%80
+- https://en.wikipedia.org/wiki/The_Purchase_of_the_North_Pole
+- https://commons.wikimedia.org/wiki/Category:The_Purchase_of_the_North_Pole
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%B5%D1%80%D1%85_%D0%B4%D0%BD%D0%BE%D0%BC
+- https://el.wikipedia.org/wiki/%CE%86%CE%BD%CF%89_%CE%BA%CE%AC%CF%84%CF%89
+- https://pl.wikiquote.org/wiki/%C5%9Awiat_do_g%C3%B3ry_nogami
+- https://sv.wikipedia.org/wiki/Barbicane_%26_Co.
+- https://fr.wikisource.org/wiki/Sans_dessus_dessous
